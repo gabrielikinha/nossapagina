@@ -32,7 +32,7 @@ header{
     padding: 50px;
     text-align: center;
     width: 50%;
-    font: 30px;
+    font-size: 30px;
 }
 .sociais{
     display: flex;
@@ -62,7 +62,7 @@ header{
 }
 
 .estudante{
-    background-image: background-color(#faae43);
+    background-color: #faae43;
     padding: 24px 0;
 }
 
