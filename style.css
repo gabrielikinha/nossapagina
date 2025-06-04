@@ -62,13 +62,13 @@ header{
 }
 
 .estudante{
-    background-image: background-color(#faae43);
+    background-color:#faae43;
     padding: 24px 0;
 }
 
 .estudante.div{
     text-align: center;
-    padding: 24px 0;
+    padding: 24px 0; 
 }
 .estudante_todos{
     display: flex;
