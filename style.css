@@ -87,8 +87,6 @@ header{
 .escola{
     background-image: linear-gradient(#40A2E3,#7fc2ef);
     color: white;
-    display: flex;
-    justify-content: center;
     padding: 24px 0;
     text-align: center;
 }
