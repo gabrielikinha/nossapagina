@@ -15,6 +15,7 @@ header{
     padding: 20px;
 
 }
+
 .cabecalho-itens{
     max-width: 1980px;
     margin: 0 auto;
@@ -22,28 +23,33 @@ header{
     align-items: center;
     justify-content: center;
 }
+
 .cabecalho-imagem{
     width: 6%;
     display: flex;
     justify-content: flex-start;
     align-items: center;
 }
+
 .titulo_site{
     padding: 50px;
     text-align: center;
     width: 50%;
     font-size: 30px;
 }
+
 .sociais{
     display: flex;
     justify-content: flex-end;
     width: 25%;
     padding-right: 30px;
 }
+
 .banner1{
     display: flex;
     justify-content: center;
 }
+
 .estudante_titulo{
     padding: 50px;
     text-align: center;
@@ -52,6 +58,7 @@ header{
 .estudante-nome{
     text-align: center;
 }
+
 .estudante-imagem{
     width: 120px;
 }
@@ -71,11 +78,13 @@ header{
     text-align: center;
     padding: 24px 0; 
 }
+
 .estudante_todos{
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
 }
+
 .escola{
     background-image: linear-gradient(#40A2E3,#7fc2ef);
     color: white;
@@ -85,6 +94,7 @@ header{
     text-align: center;
 
 }
+
 .escola-titulo{
     padding: 50px;
     text-align: center;
@@ -96,6 +106,7 @@ header{
 
 
 }
+
 .link{
     color: #ffffff;
     text-decoration: none;
